@@ -35,4 +35,11 @@ Contact:
  - WR Community Legal Services: +1-519-743-0254
  - Renters Educating and Networking Together (R.E.N.T.): +1-519-743-0254
 
+---
+
+[Maintenance](./maintenance.md){: .btn .btn-green } [Health](./health.md){: .btn .btn-green } [Crime](./crime.md){: .btn .btn-green }
+
+[Home]({{ site.baseurl }}{% link index.md %}){: .btn .btn-blue }
+
+
 For all inquires contact our helpline +1-519-579-3800 or [info@waterlooregion.org](mailto:info@waterlooregion.org)
