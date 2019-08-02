@@ -12,3 +12,21 @@ permalink: /docs/rights
 
 If there is any criminal activity such as, theft, violence, drugs, vandalism, etc, **ALL problems must be reported to the _police_**
 
+## Emergency
+
+If there is an emergency happening now, that could include, (assault, break and entry in progress, medical emergency, fire, collision with people injured, etc. )
+
+- **CALL 911!**
+
+## Non-emergency
+
+Issues that cover disputes among tenants, vehicle theft, drug dealing, incident that has already happened, would be considered non-emergency.
+
+- Call non-emergency number: +1-519-653-7700 
+- [Crime Stoppers](www.waterloocrimestoppers.com): +1-800-222-8477 (anonymous reporting).
+
+---
+
+Officers will come out and make a report.
+
+Report online in case of minor incidents [here](www.wrps.on.ca/online )- reporting when there are no witnesses, no video or evidence at the crime scene, or when damage or loss is under $5,000.
