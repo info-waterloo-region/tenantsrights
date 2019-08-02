@@ -31,4 +31,4 @@ An inspector comes within a week in the case of a “non-essential” issue.
 
 [By-Law](./by-law.md) will issue a repair order to be completed by the landlord within a minimum of 19 days. If the issue is not fixed within that time, [By-Law](./by-law.md) will contract someone to do the work or lay a charge against the property management.
 
-[Home](./){: .btn .btn-blue }
+[Home]({{ site.baseurl }}{% link index.md %}){: .btn .btn-blue }
