@@ -5,7 +5,7 @@ nav_order: 3
 #has_children: true
 has_toc: false
 description: "Main page for all the information for Health and safety rights that tenants have"
-permalink: /docs/rights
+#permalink: /docs/rights
 ---
 
 # Health & Safety
