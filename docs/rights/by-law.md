@@ -5,7 +5,7 @@ nav_order: 5
 #has_children: true
 has_toc: false
 description: "Main page for all the information for Maintenance & Repair rights that tenants have"
-permalink: /docs/rights
+#permalink: /docs/rights
 ---
 
 # By-Law & Fire Prevention
