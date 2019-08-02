@@ -30,3 +30,9 @@ Issues that cover disputes among tenants, vehicle theft, drug dealing, incident 
 Officers will come out and make a report.
 
 Report online in case of minor incidents [here](www.wrps.on.ca/online )- reporting when there are no witnesses, no video or evidence at the crime scene, or when damage or loss is under $5,000.
+
+---
+
+[Home]({{ site.baseurl }}{% link index.md %}){: .btn .btn-blue }
+
+For all inquires contact our helpline +1-519-579-3800 or [info@waterlooregion.org](mailto:info@waterlooregion.org)
