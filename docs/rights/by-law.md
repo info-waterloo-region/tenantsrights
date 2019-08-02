@@ -27,4 +27,12 @@ Contact:
 - Non-Emergency: +1-519-653-7700 
 - [Crime Stoppers](www.waterloocrimestoppers.com) (anonymous): +1-800-22- 8477
 
+## Other contact resources
+
+Contact:
+ - Rental Housing Enforcement Unit, Compliance Officer (addressing offences under the Residential Tenancies Act
+– not related to maintenance): +1-888-772-9277
+ - WR Community Legal Services: +1-519-743-0254
+ - Renters Educating and Networking Together (R.E.N.T.): +1-519-743-0254
+
 For all inquires contact our helpline +1-519-579-3800 or [info@waterlooregion.org](mailto:info@waterlooregion.org)
