@@ -5,7 +5,7 @@ nav_order: 4
 #has_children: true
 has_toc: false
 description: "Main page for all the information for crime and security rights that tenants have"
-permalink: /docs/rights
+#permalink: /docs/rights
 ---
 
 # Crime and Security
