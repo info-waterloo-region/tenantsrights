@@ -37,7 +37,7 @@ Report online in case of minor incidents [**here**](https://www.wrps.on.ca/en/se
 
 - Police Emergency: 911; 
 - Non-Emergency: +1-519-653-7700 
-- [Crime Stoppers](http://waterloocrimestoppers.com/sitemenu.aspx?ID=152&) (anonymous): +1-800-222-8477
+- [Crime Stoppers](http://waterloocrimestoppers.com/sitemenu.aspx?ID=152&) (anonymous reporting): +1-800-222-8477
 
 ---
 
