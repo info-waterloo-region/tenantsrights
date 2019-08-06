@@ -21,7 +21,7 @@ Each of the services keeps their own case records and can testify at Landlord & 
 
 ---
 
-# Lease and compensation
+# [Lease and compensation](./docs/rights/compensation.md)
 
 At the same time as you connect with [By-Law](./docs/rights/by-law.md) or [Fire Prevention](./docs/rights/fireprevention.md), you can also contact Community Legal Services who will review connected issues regarding your lease. You may ask for a portion of your rent retroactively, an end to your tenancy, and/or reimbursement for damages.
 
