@@ -12,7 +12,7 @@ description: "Main page for all the information for Health and safety rights tha
 
 If there are health and safety issues in the building/appartment that is being rented. Contact the landlord in writing – _a work order or a demand letter_. Make sure to document: take pictures, write down dates, and concerns, record when you contacted the landlord, [By-Law](./by-law.md), etc.
 
-If it is an “emergency” and you cannot reach the landlord, contact [By-Law](./by-law.md) or [Fire Prevention](./fireprevention.md) as appropriate.
+If it is an “emergency” and you cannot reach the landlord, contact [Fire Prevention](./fireprevention.md) as appropriate.
 
 ---
 
@@ -36,9 +36,6 @@ Issues that come under minor obstructions to exits, damaged hall or stair lighti
 
 Contact:
 - Fire Prevention: +1-519-741-2495
-- Police Emergency: 911; 
-- Non-Emergency: +1-519-653-7700 
-- [Crime Stoppers](http://waterloocrimestoppers.com/sitemenu.aspx?ID=152&) (anonymous): +1-800-222-8477
 
 ---
 
