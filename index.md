@@ -27,4 +27,11 @@ At the same time as you connect with [By-Law](./docs/rights/by-law.md) or [Fire 
 
 If you qualify financially, you will receive legal advice, help filling forms and preparing for a hearing at the Landlord and Tenant Board. All issues you have had in the last 12 months can be brought to the Landlord & Tenant Board - even if you have moved out!
 
+## Contact legal services
+
+ - WR Community Legal Services: +1-519-743-0254
+ 
+---
+
+
 For all inquires contact our helpline +1-519-579-3800 or [info@waterlooregion.org](mailto:info@waterlooregion.org)
