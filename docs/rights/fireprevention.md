@@ -16,7 +16,7 @@ Contact:
 - Non-Emergency: +1-519-653-7700 
 - [Crime Stoppers](http://waterloocrimestoppers.com/sitemenu.aspx?ID=152&) (anonymous): +1-800-222-8477
 
-[Maintenance](./maintenance.md){: .btn .btn-green } [Health](./health.md){: .btn .btn-green } [Crime](./crime.md){: .btn .btn-green }
+[Health](./health.md){: .btn .btn-green }
 
 [Home]({{ site.baseurl }}{% link index.md %}){: .btn .btn-blue }
 
