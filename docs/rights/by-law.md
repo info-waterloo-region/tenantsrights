@@ -17,7 +17,7 @@ Contact:
 - ByLaw Cambridge: +1-519-621-0740 ext. 7907
 
 
-[Maintenance](./maintenance.md){: .btn .btn-green } [Health](./health.md){: .btn .btn-green } [Crime](./crime.md){: .btn .btn-green }
+[Maintenance](./maintenance.md){: .btn .btn-green } 
 
 [Home]({{ site.baseurl }}{% link index.md %}){: .btn .btn-blue }
 
