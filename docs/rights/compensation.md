@@ -47,7 +47,7 @@ Contact: +1-416-585-7214
 
 ## Waterloo Region Community Legal Services
 
-If tenants under a moderate income they will get legal advice or assist in tenant board meetings to resolve issues with the rental units
+If tenants under a moderate income WR region community legal services will get legal advice or assist in tenant board meetings to resolve issues with the rental units. They provide legal assistance, public legal education, community advocacy. More information is given on their [website](http://wrcls.ca).
 
 Contant:
  - WR Community Legal Services: +1-519-743-0254
@@ -56,8 +56,13 @@ Contant:
 
 ## R.E.N.T.
 
+R.E.N.T. seeks to improve safety, security, and affordability of rental housing in the Waterloo region by educating and organizing tenants as well as advocating on behalf of their interests.
 
- - Renters Educating and Networking Together (R.E.N.T.): +1-519-743-0254
+The organization believes that every tenant has a basic human right to shelter - safe, affordable, and secure. They encorage tenants to become knowledgeable and proactive concerning their rights, responsibilities, and current housing legislation. R.E.N.T. also encourages tenants to come together and form groups and association. Tenants Organizing Manual is a tool we share to support organizing of renters wherever they live.
+
+Contant:
+ - Renters Educating and Networking Together (R.E.N.T.): +1-519-743-0254, ask for RENT.
+ - Email: [kwrenters@gmail.com](mailto:kerenters@gmail.com)
 
 
 
