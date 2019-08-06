@@ -32,7 +32,7 @@ Issues that come under minor obstructions to exits, damaged hall or stair lighti
 
 ---
 
-## Fire Prevention
+## Contact Fire Prevention
 
 Contact:
 - Fire Prevention: +1-519-741-2495
