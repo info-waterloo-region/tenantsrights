@@ -23,7 +23,7 @@ If there is an emergency happening now, that could include, (assault, break and 
 Issues that cover disputes among tenants, vehicle theft, drug dealing, incident that has already happened, would be considered non-emergency.
 
 - Call non-emergency number: +1-519-653-7700 
-- [Crime Stoppers](www.waterloocrimestoppers.com): +1-800-222-8477 (anonymous reporting).
+- [Crime Stoppers](http://waterloocrimestoppers.com/sitemenu.aspx?ID=152&): +1-800-222-8477 (anonymous reporting).
 
 ---
 
