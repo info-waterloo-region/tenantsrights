@@ -29,7 +29,7 @@ Issues that cover disputes among tenants, vehicle theft, drug dealing, incident 
 
 Officers will come out and make a report.
 
-Report online in case of minor incidents [here](www.wrps.on.ca/online )- reporting when there are no witnesses, no video or evidence at the crime scene, or when damage or loss is under $5,000.
+Report online in case of minor incidents [**here**](https://www.wrps.on.ca/en/services-reporting/online-reporting-.aspx)- reporting when there are no witnesses, no video or evidence at the crime scene, or when damage or loss is under $5,000.
 
 ---
 
