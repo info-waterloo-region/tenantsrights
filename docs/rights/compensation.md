@@ -22,11 +22,11 @@ Can provide information about the process of breaking the lease or receiving com
 
 Contact phone: +1-888-332-3234
 
->London - Southwestern Office 
->150 Dufferin Avenue, Suite 400
->London, Ontario N6A 5N6 
->[Website](SW-ltb@ontario.ca)  
->Fax: 519-679-7290 or 1-888-377-8813 
+- London - Southwestern Office 
+150 Dufferin Avenue, Suite 400
+London, Ontario N6A 5N6 
+- Email: [SW-ltb@ontario.ca](mailto:SW-ltb@ontario.ca)  
+- Fax: 519-679-7290 or 1-888-377-8813 
 
 You can file an application in person at some ServiceOntario locations.
 
