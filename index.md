@@ -19,6 +19,10 @@ Please choose what category you come under:
 
 Each of the services keeps their own case records and can testify at Landlord & Tenant Board Hearings.
 
+---
+
+# Lease and compensation
+
 At the same time as you connect with [By-Law](./docs/rights/by-law.md) or [Fire Prevention](./docs/rights/fireprevention.md), you can also contact Community Legal Services who will review connected issues regarding your lease. You may ask for a portion of your rent retroactively, an end to your tenancy, and/or reimbursement for damages.
 
 If you qualify financially, you will receive legal advice, help filling forms and preparing for a hearing at the Landlord and Tenant Board. All issues you have had in the last 12 months can be brought to the Landlord & Tenant Board - even if you have moved out!
