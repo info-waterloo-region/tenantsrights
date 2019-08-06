@@ -25,7 +25,7 @@ Contact:
 - Fire Prevention: +1-519-741-2495
 - Police Emergency: 911; 
 - Non-Emergency: +1-519-653-7700 
-- [Crime Stoppers](www.waterloocrimestoppers.com) (anonymous): +1-800-222-8477
+- [Crime Stoppers](http://waterloocrimestoppers.com/sitemenu.aspx?ID=152&) (anonymous): +1-800-222-8477
 
 ## Other contact resources
 
