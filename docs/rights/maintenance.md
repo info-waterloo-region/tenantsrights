@@ -33,6 +33,15 @@ An inspector comes within a week in the case of a “non-essential” issue.
 
 ---
 
+## Contact By-Law
+
+Contact:
+- ByLaw Kitchener: +1-519-741-2345
+- ByLaw Waterloo: +1-519-889-1550
+- ByLaw Cambridge: +1-519-621-0740 ext. 7907
+
+---
+
 [Home]({{ site.baseurl }}{% link index.md %}){: .btn .btn-blue }
 
 For all inquires contact our helpline +1-519-579-3800 or [info@waterlooregion.org](mailto:info@waterlooregion.org)
