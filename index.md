@@ -9,15 +9,15 @@ Are you a renting tenant living in Waterloo Region (Kitchener, Waterloo, Cambrid
 If you're finding issues in the place you're renting, you can find all the info you need regarding your rights as a tenant and what actions you can take to fix your issues. 
 Please find the category of information that you're looking for below.
 
-ALWAYS be responsible in keeping your unit in good state and ALWAYS report issues in a TIMELY manner! Documenting concerns is the key – if not sure how to document, get in touch with a tenant support group, R.E.N.T. Renters Educating and Networking Together or the Waterloo Region Community Legal Services.
-
-Please choose what category you come under:
+Please choose what category you're looking for:
 
 - [Maintenance & Repairs](./docs/rights/maintenance.md) - water,sewer, hot water, heating, insects, mold, appliances, noise, etc.
 - [Health & Safety](./docs/rights/health.md) - fire alarms, fire exits, electrical systems, safety hazards, etc.
 - [Crime & Security](./docs/rights/crime.md) - theft, vandalism, drugs, violence, etc.
 
 Each of the services keeps their own case records and can testify at Landlord & Tenant Board Hearings.
+
+ALWAYS be responsible in keeping your unit in good state and ALWAYS report issues in a TIMELY manner! Documenting concerns is the key – if not sure how to document, get in touch with a tenant support group, R.E.N.T. Renters Educating and Networking Together or the Waterloo Region Community Legal Services.
 
 ---
 
