@@ -33,6 +33,7 @@ Contant:
 If you have a dispute with your landlord related to the offences withing the Residential Tenancies Act, you can work with the Rental Housing Enforcement Unit to solve the problem, such as Evictions, Vital Services (water, heat, electricity), Entering a rental unit, Rent and extra fees, Harassment and human rights offences. The Rental Housing Enforcement Unit does not deal with issues of maintenance.
 
 They can be contacted via their [website](https://www.ontario.ca/page/solve-disagreement-your-landlord-or-tenant)
+
 Contact: +1-416-585-7214
 
 ---
