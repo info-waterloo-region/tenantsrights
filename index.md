@@ -14,7 +14,7 @@ Please choose what category you're looking for:
 - [Maintenance & Repairs](./docs/rights/maintenance.md) - water,sewer, hot water, heating, insects, mold, appliances, noise, etc.
 - [Health & Safety](./docs/rights/health.md) - fire alarms, fire exits, electrical systems, safety hazards, etc.
 - [Crime & Security](./docs/rights/crime.md) - theft, vandalism, drugs, violence, etc.
-- [Lease / Landlord issies & compensation](./docs/rights/compensation.md) - tenant advacation, rental housing enforcement unit
+- [Lease / Landlord issues & compensation](./docs/rights/compensation.md) - tenant advacation, rental housing enforcement unit
 
 Each of the services keeps their own case records and can testify at Landlord & Tenant Board Hearings.
 
