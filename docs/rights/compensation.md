@@ -28,7 +28,7 @@ Contant:
  
 --- 
 
- ### Rental Housing Enforcement Unit, Compliance Officer
+### Rental Housing Enforcement Unit, Compliance Officer
 
 If you have a dispute with your landlord related to the offences withing the Residential Tenancies Act, you can work with the Rental Housing Enforcement Unit to solve the problem, such as Evictions, Vital Services (water, heat, electricity), Entering a rental unit, Rent and extra fees, Harassment and human rights offences. The Rental Housing Enforcement Unit does not deal with issues of maintenance.
 
