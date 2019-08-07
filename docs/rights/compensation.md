@@ -17,7 +17,7 @@ If you qualify financially, you will receive legal advice, help filling forms an
 There are different boards that can help out with the issues that you're having with your lease or compensation of belongings.
 
 ---
-## Legal Adivce
+## Legal Advice
 
 ### Waterloo Region Community Legal Services
 
