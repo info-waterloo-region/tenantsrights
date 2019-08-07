@@ -10,7 +10,9 @@ permalink: /docs/rights
 
 # Maintenance & Repairs
 
-If there are maintenance and repair issues in the building/appartment that is being rented. Contact the landlord in writing – _a work order or a demand letter_. Make sure to document: take pictures, write down dates, and concerns, record when you contacted the landlord, [By-Law](./by-law.md), etc.
+If there are maintenance and repair issues in the building/appartment that is being rented. 
+
+**Contact the landlord in writing** – _a work order or a demand letter_. Make sure to document: take pictures, write down dates, and concerns, record when you contacted the landlord, [By-Law](./by-law.md), etc.
 
 If it is an “emergency” and you cannot reach the landlord, contact [By-Law](./by-law.md) as appropriate.
 
