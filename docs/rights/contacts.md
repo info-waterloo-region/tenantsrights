@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Contacts
-nav_order: 6
+nav_order: 7
 #has_children: true
 has_toc: false
 description: "Main page for all the information for all the contacts"
