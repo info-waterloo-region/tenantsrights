@@ -16,6 +16,26 @@ If you qualify financially, you will receive legal advice, help filling forms an
 
 There are different boards that can help out with the issues that you're having with your lease or compensation of belongings.
 
+---
+
+## Waterloo Region Community Legal Services
+
+If tenants under a moderate income WR region community legal services will get legal advice or assist in tenant board meetings to resolve issues with the rental units. They provide legal assistance, public legal education, community advocacy. More information is given on their [website](http://wrcls.ca).
+
+Contant:
+ - WR Community Legal Services: +1-519-743-0254
+ 
+--- 
+
+ ## Rental Housing Enforcement Unit, Compliance Officer
+
+If you have a dispute with your landlord related to the offences withing the Residential Tenancies Act, you can work with the Rental Housing Enforcement Unit to solve the problem, such as Evictions, Vital Services (water, heat, electricity), Entering a rental unit, Rent and extra fees, Harassment and human rights offences. The Rental Housing Enforcement Unit does not deal with issues of maintenance.
+
+They can be contacted via their [website](https://www.ontario.ca/page/solve-disagreement-your-landlord-or-tenant)
+Contact: +1-416-585-7214
+
+---
+
 ## Landlord and Tenant Board
 
 Can provide information about the process of breaking the lease or receiving compensation for the damages or breach of the lease, let you know how to file a complaint, what forms you need and what the associated fees are. 
@@ -36,23 +56,6 @@ To find the ServiceOntario location nearest you that accepts LTB applications an
 
 ---
 
-## Rental Housing Enforcement Unit, Compliance Officer
-
-If you have a dispute with your landlord related to the offences withing the Residential Tenancies Act, you can work with the Rental Housing Enforcement Unit to solve the problem, such as Evictions, Vital Services (water, heat, electricity), Entering a rental unit, Rent and extra fees, Harassment and human rights offences. The Rental Housing Enforcement Unit does not deal with issues of maintenance.
-
-They can be contacted via their [website](https://www.ontario.ca/page/solve-disagreement-your-landlord-or-tenant)
-Contact: +1-416-585-7214
-
----
-
-## Waterloo Region Community Legal Services
-
-If tenants under a moderate income WR region community legal services will get legal advice or assist in tenant board meetings to resolve issues with the rental units. They provide legal assistance, public legal education, community advocacy. More information is given on their [website](http://wrcls.ca).
-
-Contant:
- - WR Community Legal Services: +1-519-743-0254
- 
---- 
 
 ## R.E.N.T.
 
