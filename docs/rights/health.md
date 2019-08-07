@@ -10,7 +10,9 @@ description: "Main page for all the information for Health and safety rights tha
 
 # Health & Safety
 
-If there are health and safety issues in the building/appartment that is being rented. Contact the landlord in writing – _a work order or a demand letter_. Make sure to document: take pictures, write down dates, and concerns, record when you contacted the landlord, [Fire Prevention](./fireprevention.md), etc.
+If there are health and safety issues in the building/appartment that is being rented. 
+
+**Contact the landlord in writing** – _a work order or a demand letter_. Make sure to document: take pictures, write down dates, and concerns, record when you contacted the landlord, [Fire Prevention](./fireprevention.md), etc.
 
 If it is an “emergency” and you cannot reach the landlord, contact [Fire Prevention](./fireprevention.md) as appropriate.
 
