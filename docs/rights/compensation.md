@@ -17,8 +17,9 @@ If you qualify financially, you will receive legal advice, help filling forms an
 There are different boards that can help out with the issues that you're having with your lease or compensation of belongings.
 
 ---
+## Legal Adivce
 
-## Waterloo Region Community Legal Services
+### Waterloo Region Community Legal Services
 
 If tenants under a moderate income WR region community legal services will get legal advice or assist in tenant board meetings to resolve issues with the rental units. They provide legal assistance, public legal education, community advocacy. More information is given on their [website](http://wrcls.ca).
 
@@ -27,7 +28,7 @@ Contant:
  
 --- 
 
- ## Rental Housing Enforcement Unit, Compliance Officer
+ ### Rental Housing Enforcement Unit, Compliance Officer
 
 If you have a dispute with your landlord related to the offences withing the Residential Tenancies Act, you can work with the Rental Housing Enforcement Unit to solve the problem, such as Evictions, Vital Services (water, heat, electricity), Entering a rental unit, Rent and extra fees, Harassment and human rights offences. The Rental Housing Enforcement Unit does not deal with issues of maintenance.
 
@@ -57,17 +58,7 @@ To find the ServiceOntario location nearest you that accepts LTB applications an
 ---
 
 
-## R.E.N.T.
 
-R.E.N.T. seeks to improve safety, security, and affordability of rental housing in the Waterloo region by educating and organizing tenants as well as advocating on behalf of their interests.
-
-The organization believes that every tenant has a basic human right to shelter - safe, affordable, and secure. They encorage tenants to become knowledgeable and proactive concerning their rights, responsibilities, and current housing legislation. R.E.N.T. also encourages tenants to come together and form groups and association. Tenants Organizing Manual is a tool we share to support organizing of renters wherever they live.
-
-Contant:
- - Renters Educating and Networking Together (R.E.N.T.): +1-519-743-0254, ask for RENT.
- - Email: [kwrenters@gmail.com](mailto:kerenters@gmail.com)
-
----
 
 [Home]({{ site.baseurl }}{% link index.md %}){: .btn .btn-blue }
 
