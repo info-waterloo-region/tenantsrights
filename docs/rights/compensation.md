@@ -21,7 +21,7 @@ Parallel to connecting with [By-Law](./docs/rights/by-law.md) or [Fire Preventio
 
 If you qualify financially, you will receive legal advice, help filling forms and preparing for a hearing at the Landlord and Tenant Board. All issues you have had in the last 12 months can be brought to the Landlord & Tenant Board - even if you have moved out!
 
-Tenants under a moderate income, 'WR region community legal services' will get legal advice or assist in 'tenant board meetings to resolve issues with the rental units. They provide legal assistance, public legal education, community advocacy. More information is given on their [website](http://wrcls.ca).
+Tenants under a moderate income, 'WR region community legal services' will get legal advice or assist in 'tenant board' meetings to resolve issues with the rental units. They provide legal assistance, public legal education, community advocacy. More information is given on their [website](http://wrcls.ca).
 
 Contact:
  - WR Community Legal Services: +1-519-743-0254
