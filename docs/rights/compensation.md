@@ -10,18 +10,18 @@ description: "Main page for all the information for all the contacts"
 
 # Lease/Landlord Issues and Compensation
 
-At the same time as you connect with [By-Law](./docs/rights/by-law.md) or [Fire Prevention](./docs/rights/fireprevention.md), you can also contact Community Legal Services who will review connected issues regarding your lease. You may ask for a portion of your rent retroactively, an end to your tenancy, and/or reimbursement for damages.
-
-If you qualify financially, you will receive legal advice, help filling forms and preparing for a hearing at the Landlord and Tenant Board. All issues you have had in the last 12 months can be brought to the Landlord & Tenant Board - even if you have moved out!
-
-There are different boards that can help out with the issues that you're having with your lease or compensation of belongings.
+There are different organisations and provincial agencies that can help out with the issues that you're having with your lease or compensation of belongings.
 
 ---
 ## Legal Advice
 
 ### Waterloo Region Community Legal Services
 
-If tenants under a moderate income WR region community legal services will get legal advice or assist in tenant board meetings to resolve issues with the rental units. They provide legal assistance, public legal education, community advocacy. More information is given on their [website](http://wrcls.ca).
+Parallel to connecting with [By-Law](./docs/rights/by-law.md) or [Fire Prevention](./docs/rights/fireprevention.md), you can also contact Community Legal Services who will review connected issues regarding your lease. You may ask for a portion of your rent retroactively, an end to your tenancy, and/or reimbursement for damages.
+
+If you qualify financially, you will receive legal advice, help filling forms and preparing for a hearing at the Landlord and Tenant Board. All issues you have had in the last 12 months can be brought to the Landlord & Tenant Board - even if you have moved out!
+
+Tenants under a moderate income, 'WR region community legal services' will get legal advice or assist in 'tenant board meetings to resolve issues with the rental units. They provide legal assistance, public legal education, community advocacy. More information is given on their [website](http://wrcls.ca).
 
 Contact:
  - WR Community Legal Services: +1-519-743-0254
