@@ -23,7 +23,7 @@ There are different boards that can help out with the issues that you're having 
 
 If tenants under a moderate income WR region community legal services will get legal advice or assist in tenant board meetings to resolve issues with the rental units. They provide legal assistance, public legal education, community advocacy. More information is given on their [website](http://wrcls.ca).
 
-Contant:
+Contact:
  - WR Community Legal Services: +1-519-743-0254
  
 --- 
